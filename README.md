@@ -1,12 +1,18 @@
-# Express.js RESTful API Assignment
+# Express.js Product Management API
 
-This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.
+A comprehensive RESTful API for managing products, built with Express.js and MongoDB. This project implements all CRUD operations, authentication, validation, and advanced features like filtering, pagination, and statistics.
 
-## Assignment Overview
+## 🚀 Features
 
-You will:
-1. Set up an Express.js server
-2. Create RESTful API routes for a product resource
+- Full CRUD operations for products
+- Authentication and authorization
+- Request validation
+- Error handling
+- Filtering, sorting, and pagination
+- Product statistics
+- API documentation with Swagger
+- Environment configuration
+- MongoDB integration
 3. Implement custom middleware for logging, authentication, and validation
 4. Add comprehensive error handling
 5. Develop advanced features like filtering, pagination, and search
